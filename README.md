@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Koray</h2>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 👋 Hi there! I'm Koray, a passionate frontend developer and an eager student dedicated to learning and creating impactful web experiences.
