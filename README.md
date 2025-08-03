@@ -21,19 +21,19 @@
 - ✨ A fast, team-oriented, and solution-focused developer.
 
 ---
-
 ## ⚒️ Tech Stack
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,redux,materialui,antdesign" />
 </p>
 
-### 🛠 Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+### 🛠 Backend & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,linux,nginx,vscode" />
+</p>
+
+
 
 ### ⚙️ DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
