@@ -69,9 +69,8 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📩 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/koraydemir1)
+- 📩 Email: koraydemirmc@gmail.com
 
 ---
 
