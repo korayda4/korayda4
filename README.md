@@ -1,36 +1,79 @@
-<h2> Hey there! I'm Koray</h2>
+<h1 align="center">Hey there 👋, I'm Koray</h1>
+<p align="center">
+  🚀 Passionate Frontend Developer | 📚 Lifelong Learner | 🌐 Open Source Enthusiast
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/koraydemir"><img src="https://komarev.com/ghpvc/?username=koraydemir&style=flat-square&color=blue" alt="Profile views" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white"/></a>
+</p>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+---
 
-- 👋 Hi there! I'm Koray, a passionate frontend developer and an eager student dedicated to learning and creating impactful web experiences.
-- 🔭 I develop projects using modern technologies like Next.js, React, Node.js, and TypeScript.
-- 🌱 Always open to learning new technologies and methodologies to stay up-to-date in the fast-evolving world of web development.
-- 💬 Let's connect! Feel free to reach out to discuss tech, collaboration opportunities, or just to say hi.
+## 🧑‍💻 About Me
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 🎯 I write clean, scalable code using **Next.js**, **React.js**, and modern UI libraries.
+- 🖥️ Skilled in performance optimization and **rapid delivery** of web apps.
+- 🐧 I manage Linux-based **VPS servers** using **Nginx**, `pm2`, and `nohup` to deploy and maintain live projects.
+- 🔧 Experienced in **Git**, **GitHub**, and **CI/CD** pipelines for automated deployment.
+- ✨ A fast, team-oriented, and solution-focused developer.
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Tailwindcss](https://img.shields.io/badge/tailwindcss-333333?style=flat&logo=tailwindcss)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
 
-<br/>
+## ⚒️ Tech Stack
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass)
+
+### 🛠 Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koraydemir&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koraydemir&theme=radical" width="48%" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=koraydemir&theme=radical&row=2&column=3" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 📩 Email: your.email@example.com
+
+---
+
+> "Code with purpose. Learn with passion. Build with impact."
+
