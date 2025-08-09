@@ -5,9 +5,8 @@
 
 <p align="center">
   <a href="https://github.com/koraydemir"><img src="https://komarev.com/ghpvc/?username=koraydemir&style=flat-square&color=blue" alt="Profile views" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white"/></a>
+  <a href="mailto:koraydemirmc@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/koraydemir1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
