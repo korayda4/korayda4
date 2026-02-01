@@ -17,11 +17,11 @@
 
 ## 🚀 About Me
 
-- 🧠 Clean & scalable UI development with **React, Next.js, React Native**
-- ⚡ Performance-focused, production-ready apps
+- 🧠 Clean & scalable UI development with **React, Next.js**
 - 📱 Cross-platform mobile apps using **React Native**
-- 🔥 Backend & realtime systems with **Firebase**
-- 🐧 Linux VPS deployment using **Nginx, PM2, CI/CD**
+- 🔥 Realtime backend systems with **Firebase**
+- ⚡ Performance-focused & production-ready apps
+- 🐧 Linux VPS deployment (**Nginx, PM2, CI/CD**)
 - 🤝 Team-oriented, fast learner, solution-driven
 
 ---
@@ -33,32 +33,44 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,redux" />
 </p>
 
-### 📱 Mobile
+### 📱 Mobile & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,nodejs,express" />
 </p>
 
-### 🛠 Backend & DevOps
+### 🛠 DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,linux,nginx,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=korayda4&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=korayda4&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayda4&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity (Stable Version)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korayda4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korayda4&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=korayda4&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=korayda4&theme=tokyonight" />
+</p>
+
+---
+
+## 🛡 GitHub Badges (Always Works)
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/korayda4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/korayda4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/korayda4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/watchers/korayda4?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=korayda4&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -68,9 +80,9 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/koraydemir1](https://linkedin.com/in/koraydemir1)
-- 📩 Email: **koraydemirmc@gmail.com**
+- 💼 LinkedIn → https://linkedin.com/in/koraydemir1
+- 📩 Email → **koraydemirmc@gmail.com**
 
 ---
 
-> 💡 *Code clean. Build fast. Ship impact.*
+> 💡 *Build clean. Ship fast. Create impact.*
