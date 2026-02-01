@@ -1,72 +1,76 @@
-<h1 align="center">Hey there 👋, I'm Koray</h1>
-<p align="center">
-  🚀 Passionate Frontend Developer | 📚 Lifelong Learner | 🌐 Open Source Enthusiast
-</p>
+<h1 align="center">Hey 👋 I'm Koray</h1>
+<h3 align="center">Frontend & Mobile Developer | React • Next.js • React Native</h3>
 
 <p align="center">
-  <a href="https://github.com/korayda4"><img src="https://komarev.com/ghpvc/?username=korayda4&style=flat-square&color=blue" alt="Profile views" /></a>
-  <a href="mailto:koraydemirmc@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/koraydemir1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/korayda4">
+    <img src="https://komarev.com/ghpvc/?username=korayda4&style=flat-square&color=blue" />
+  </a>
+  <a href="mailto:koraydemirmc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/koraydemir1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎯 I write clean, scalable code using **Next.js**, **React.js**, and modern UI libraries.
-- 🖥️ Skilled in performance optimization and **rapid delivery** of web apps.
-- 🐧 I manage Linux-based **VPS servers** using **Nginx**, `pm2`, and `nohup` to deploy and maintain live projects.
-- 🔧 Experienced in **Git**, **GitHub**, and **CI/CD** pipelines for automated deployment.
-- ✨ A fast, team-oriented, and solution-focused developer.
+- 🧠 Clean & scalable UI development with **React, Next.js, React Native**
+- ⚡ Performance-focused, production-ready apps
+- 📱 Cross-platform mobile apps using **React Native**
+- 🔥 Backend & realtime systems with **Firebase**
+- 🐧 Linux VPS deployment using **Nginx, PM2, CI/CD**
+- 🤝 Team-oriented, fast learner, solution-driven
 
 ---
+
 ## ⚒️ Tech Stack
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,redux,materialui,antdesign" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,redux" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,firebase" />
 </p>
 
 ### 🛠 Backend & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,linux,nginx,git,github" />
 </p>
-
-
-
-### ⚙️ DevOps & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koraydemir&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koraydemir&theme=radical" width="48%" />
-</div>
-
----
-
-## 🏆 Trophies
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=korayda4&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=korayda4&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koraydemir&theme=radical&row=2&column=3" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayda4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 GitHub Trophies
 
-- 💼 [LinkedIn](https://linkedin.com/in/koraydemir1)
-- 📩 Email: koraydemirmc@gmail.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=korayda4&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-> "Code with purpose. Learn with passion. Build with impact."
+## 📫 Contact
 
+- 💼 LinkedIn: [linkedin.com/in/koraydemir1](https://linkedin.com/in/koraydemir1)
+- 📩 Email: **koraydemirmc@gmail.com**
+
+---
+
+> 💡 *Code clean. Build fast. Ship impact.*
