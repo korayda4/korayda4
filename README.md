@@ -45,20 +45,27 @@
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity (Stable Version)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=korayda4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayda4&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korayda4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korayda4&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=korayda4&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=korayda4&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛡 GitHub Badges
+## 🛡 GitHub Badges (Always Works)
 
 <p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/korayda4?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/korayda4?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/korayda4?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/forks/korayda4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/watchers/korayda4?style=for-the-badge&logo=github" />
 </p>
 
 ---
